@@ -16,6 +16,17 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a></p><br>
 
+## Projects
+🟡 **Geplant** <br>
+&nbsp;&nbsp;&nbsp;[![Planed](https://img.shields.io/badge/🟡%20Planed-in--prephase-FFD700?style=for-the-badge&logo=pascal&logoColor=white)](https://github.com/xquxmxn/PokerProjekt) [![📁 Projekt XY](https://img.shields.io/badge/📁-Projekt%20XY-1E90FF?style=for-the-badge)](https://github.com/dein-nutzername/projekt-xy)<br>
+ 🟢 **In Arbeit**  <br>
+&nbsp;&nbsp;&nbsp;[![Working](https://img.shields.io/badge/🟢%20Working-in--progress-success?style=for-the-badge)](https://github.com/xquxmxn/PokerProjekt)  [![📁 Poker Projekt](https://img.shields.io/badge/📁-PokerProjekt%20-1E90FF?style=for-the-badge)](https://github.com/xquxmxn/PokerProjekt)<br>
+✅ **Abgeschlossen** <br>
+&nbsp;&nbsp;&nbsp;[![Abgeschlossen](https://img.shields.io/badge/🟠%20Completed-optimization-FFA500?style=for-the-badge)](https://github.com/xquxmxn/LazarusPascal) [![📁 Projekt XY](https://img.shields.io/badge/📁-Pascal%20-1E90FF?style=for-the-badge)](https://github.com/xquxmxn/LazarusPascal)<br>
+&nbsp;&nbsp;&nbsp; ...
+
+
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
