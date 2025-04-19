@@ -1,4 +1,3 @@
-<img src="banner_github.png"/>
 
 # ```<Hello World!>```
 ## I'm xquxmxn, a German Developer 👋🏼:
