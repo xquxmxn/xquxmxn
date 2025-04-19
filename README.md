@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png"/>
+
 # ```<Hello World!>```
 ## I'm xquxmxn, a German Developer 👋🏼:
 🛜 I'm currently studying ```administrative informatics``` at technische Hochschule Wildau
